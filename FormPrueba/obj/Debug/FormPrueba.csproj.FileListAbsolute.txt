@@ -1,0 +1,9 @@
+d:\documentos\visual studio 2015\Projects\FormPrueba\FormPrueba\bin\Debug\FormPrueba.exe.config
+d:\documentos\visual studio 2015\Projects\FormPrueba\FormPrueba\bin\Debug\FormPrueba.exe
+d:\documentos\visual studio 2015\Projects\FormPrueba\FormPrueba\bin\Debug\FormPrueba.pdb
+d:\documentos\visual studio 2015\Projects\FormPrueba\FormPrueba\obj\Debug\FormPrueba.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\FormPrueba\FormPrueba\obj\Debug\FormPrueba.Form1.resources
+d:\documentos\visual studio 2015\Projects\FormPrueba\FormPrueba\obj\Debug\FormPrueba.Properties.Resources.resources
+d:\documentos\visual studio 2015\Projects\FormPrueba\FormPrueba\obj\Debug\FormPrueba.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2015\Projects\FormPrueba\FormPrueba\obj\Debug\FormPrueba.exe
+d:\documentos\visual studio 2015\Projects\FormPrueba\FormPrueba\obj\Debug\FormPrueba.pdb
